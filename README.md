@@ -1,4 +1,4 @@
-# 📈 Customer Lifetime Value (CLV) Prediction with Survival Analysis
+# Predictive Customer Intelligence Engine
 
 > Predict **when** a customer will churn and **how much revenue** they'll generate — going beyond binary churn classification using survival analysis and machine learning.
 
